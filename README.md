@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andy021422
-- 👀 I’m interested in progamation
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me anyways
+- 👀 I’m interested in isabella
+- 🌱 I’m currently learning fazer leite na mamadeira pra criança n ter que chupar o peito da isabella
+- 💞️ I’m looking to collaborate on vida com isabella
+- 📫 How to reach me secso
 
 <!---
 andy021422/andy021422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
